@@ -29,7 +29,7 @@
 <body>
 	<div class="container">
 		<!---Login Form Start-->
-		<div class="row justufy-content-center wrapper" id="login-box">
+		<div class="row justify-content-center wrapper" id="login-box">
 			<div class="col-md-10 m-auto">
 				<div class="card-group myShadow">
 					<div class="card rounded-left p-4" style="flex-grow:1.4;">
